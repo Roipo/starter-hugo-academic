@@ -15,7 +15,7 @@ date: '2021-01-01'
 lastmod: 2021-08-04T02:13:40+03:00
 featured: false
 draft: false
-
+project_name: "TaskAutocorrection"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

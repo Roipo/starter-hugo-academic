@@ -14,7 +14,7 @@ date: '2019-01-01'
 lastmod: 2021-08-04T02:13:23+03:00
 featured: false
 draft: false
-
+project_name: "sensitivity"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-08-03T23:17:10.204877Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
-publication: '*arXiv preprint arXiv:1905.08534*'
+publication: '*arXiv*'
 ---

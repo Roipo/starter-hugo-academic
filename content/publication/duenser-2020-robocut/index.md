@@ -13,9 +13,9 @@ tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2021-08-04T02:13:32+03:00
-featured: false
+featured: true
 draft: false
-
+project_name: "hotwirecutter"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

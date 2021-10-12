@@ -12,9 +12,9 @@ tags: []
 categories: []
 date: '2018-01-01'
 lastmod: 2021-08-04T02:13:20+03:00
-featured: false
+featured: true
 draft: false
-
+project_name: "zippables"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

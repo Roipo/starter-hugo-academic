@@ -26,19 +26,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/roi-poranne-018b5b9/
 organizations:
-  - name: University of haifa
-    url: https://cs.haifa.ac.il
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: Technion
-      year: 2014
-    - course: BA in Mathematics and Physics
-      institution: Technion
-      year: 2008
+  - name: #University of haifa
+    url: #https://cs.haifa.ac.il
+#education:
+#  courses:
+#    - course: PhD in Computer Science
+#      institution: Technion
+#      year: 2014
+#    - course: BA in Mathematics and Physics
+#      institution: Technion
+#      year: 2008
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 I am a senior lecturer in the Department of Computer Science in the University of Haifa, Israel. My research interests are mainly related to geometry processing, mixed reality, digital fabrication and robotics, focusing on interactive applications. I am also a member of the Computational Robotics Lab at the ETH Zurich. 
 

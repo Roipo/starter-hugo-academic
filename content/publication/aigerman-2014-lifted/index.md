@@ -14,7 +14,7 @@ date: '2014-01-01'
 lastmod: 2021-08-04T02:13:06+03:00
 featured: false
 draft: false
-
+project_name: "lifted"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,5 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*ACM Transactions on Graphics (TOG)*'
-url_pdf: "publication/aigerman-2014-lifted/lifted.pdf"
+url_pdf: "lifted.pdf"
 ---

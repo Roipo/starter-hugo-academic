@@ -4,7 +4,7 @@ title: "Craig Gotsman"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "craig-gotsman"
+- "craig gotsman"
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/test
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PERSON-ID
